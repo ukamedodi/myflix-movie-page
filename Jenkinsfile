@@ -5,8 +5,8 @@ pipeline {
         PROD_USERNAME = 'ukamedodi'
         PROD_SERVER = '34.130.249.80'
         PROD_DIR = '/home/ukamedodi/myflix-movie-page'
-        DOCKER_IMAGE_NAME = 'moviePage-deployment'
-        DOCKER_CONTAINER_NAME = 'moviePage'
+        DOCKER_IMAGE_NAME = 'movie-page-deployment'
+        DOCKER_CONTAINER_NAME = 'movie-page'
         DOCKER_CONTAINER_PORT = '5010'
         DOCKER_HOST_PORT = '5010'
     }
