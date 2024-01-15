@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player</title>
+</head>
+<body>
+    <h1>Available Videos</h1>
+    <ul>
+        {% for video_link in video_links %}
+            <li>
+                <a href="#" onclick="playVideo('{{ video_link }}')">{{ video_link }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <div id="video-container" style="display: none;">
+        <video id="video-player" width="640" height="360" controls>
+            <source id="video-source" src="" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <script>
+        function playVideo(videoName) {
+            // Get the video player and source elements
+            var videoPlayer = document.getElementById('video-player');
+            var videoSource = document.getElementById('video-source');
+
+            // Set the source of the video player
+            videoSource.src = "/play/" + videoName;
+
+            // Load and play the video
+            videoPlayer.load();
+            
+
+            // Show the video container
+            document.getElementById('video-container').style.display = 'block';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "devopsproject-411113",
+  "private_key_id": "62da0264fd4fe8edcf739cb54ccbc1b63ee766c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpA7qbuBPQwLpu\nL/e0AZOb5sqJcjXLt0Ovci12zcjVYn4/62vD0NhyJeWjDXQrF6Law7r28TeAkZhN\nf/Aoj8jaJyUJLWM01PElVwO7fvcP8VJJ+spXHbA/AqRDYY5PPCVLOyQWt3SaVr//\nxW0wNDAoh7j+wH+iG74csy/uhvvwHt9buZ4oRW5KqgX2001Lcw0fEu37Yh83KH1x\nnHzoJwcqrfix1a+gMwYEnMXwkq0qIZ+ITBva9EvMBVAYoOf5ttcMMFwOSHCs1Rtl\n3rQgwtCSd/aCPY0gitr95ukqBr0lRST/p7QRI+Q1jz4qY1XKSRs++7W8mOV17tbM\npceQuSgrAgMBAAECggEAGjRSzWvn3pjTDtxvCkCoUyagRlkn0BL08pHATMgxGCxy\nKJTmm3CY7nHDvdkLJtc+T67DISBbG5r3QyTP5moMmQ4yps6bsAhH7yMjmAFiat1e\nhcvVbVZUCiDtuOi6OLy5h4V+3erJsFg84noIqM2endoVK6JK56Znfmmlx9Sz4RGX\nyzXAkydWnFauRAWtT/h218JcjJITYflGVEL4rWZxE/IGCqZTtQN2tslVRyg0i5Uv\nrLDflh2IjiJrOc1JfW0m7RWO2MHKU2WVxaZXGkJw+rHUJFIuxtKgvInJ4FXtYV8e\nok/R0UoJSr6W9VC8TPn2OKHLM/cn8TrSlx7FcQbbMQKBgQDTe75or3T9bK8cW5fC\n6q6IDhY0/yEoOJQq2PysAzg1rti4dj8Y+nUo/eR/NP13nclsRsL7BwJ40TWP38J0\nuvVARHvP0ljPpoMCO9noQCyP54pXMfoBLABufhZvz2w68cWPvvjTX0ndD4KwOt1C\nPW767njN5z4/AX/oFyouptWBYwKBgQDMl3VH8RgmZpOgJabipIvP3OFNqLf79Nzs\n2QnpOQDlU78HoRZKLIb4wkptXln8Fc/RDSr+vX5Q9b+EQQTdPr1yvwa1V+kzzWir\nDw7Ueok4miDfLW/i5p+MPXBsMwc0SuqiPfnT5KwiY6b6bMxAmuDy7KpqHpw7xap4\npkgPiKgcmQKBgCTNmxRCvHxBxrOLqPxttNPOh8TPRWjnd7mBK2+P299TvzlSsqZZ\nJ7xrerE8eoOvfNcP9WyUCrUVy1lvWjrQMk/t2xIOjBAO7SudWM2XJWohpCyKcPR1\nQNn5rVPl5/LWEkhytoCqS4Nh6J9cjxaw9DhM+c7zWBzE2Qp9xYR62hr7AoGAN6lF\nKSt4rInfxAQ6YRLvTsADNAOg+pVlvbJWtfLiQYIFSOgUjl2K4wbJBPRUevbcMT3p\n4qBfS1twnWSrFB5LoHpEMvYV5hgOT+uq1zf3OUUFiHJuLEceRSM6ANXpMdrn9vfx\njip6gmimNx9+el0osi6dNn3Zd5GRjX1/wWomgpECgYAJAksQJ0s1UmZEtskljuXg\nuwW2Xhy+tINWmbvJfzzRbf9HAeisBuZ8igPJ2VaTj079ZCFyJlXKBAJ5SN0/k+8o\ntrrEFHQf4J8yXQhEgttnvw/n+LQOpaZpR06dQ078Tqao13gl/+O9qr1nT+uJhFw0\nyHAx6wNdRRVCEdXCquICNw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "myflix-admin@devopsproject-411113.iam.gserviceaccount.com",
+  "client_id": "105946209537337241738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myflix-admin%40devopsproject-411113.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
