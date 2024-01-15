@@ -5,8 +5,6 @@ import io
 
 app = Flask(__name__)
 
-# Replace with your GCP credentials file path
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/ukamedodi/Downloads/my-flix/movie-page/devopsproject-411113-62da0264fd4f.json"
 
 # Replace with your GCP bucket name and folder name
 bucket_name = "myflix-movies"
